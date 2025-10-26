@@ -3,7 +3,6 @@
   "css": "DungeonWorldItalian.css",
   "authors": "Gabriele Frontini (@frons79)",
   "roll20userid": "2292320",
-  "preview": "DungeonWorldItalian.png",
   "instructions": "Scheda Personaggio per memorizzare tutte le informazioni necessarie su un personaggio di Dungeon World. Include pulsanti per mosse e danni, calcoli automatici dei modificatori, caselle di controllo per mostrare/nascondere descrizioni, salute base ed equipaggiamento. Buon divertimento!",
   "legacy": true
 }
